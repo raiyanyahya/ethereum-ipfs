@@ -1,0 +1,6 @@
+truffle console
+
+Docu.deployed().then(function(instance) { app = instance })
+app.play()
+app.record("this is my new hash")
+web3.eth.getAccounts(function(err, res) { accounts = res})
