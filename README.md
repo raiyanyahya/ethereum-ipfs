@@ -1,0 +1,1 @@
+A project using solidity for ethereum and ipfs for file storage.
